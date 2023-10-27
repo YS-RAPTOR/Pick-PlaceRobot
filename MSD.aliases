@@ -1,0 +1,5 @@
+[My Computer]
+My Computer = "192.168.227.1"
+
+[NI-myRIO-MSD-AUG15]
+NI-myRIO-MSD-AUG15 = "172.22.11.2"
